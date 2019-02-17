@@ -1,0 +1,47 @@
+#!/usr/bin/gnuplot
+
+plot 'Australia' using 6:2 pt 9 ps 1.5 lc rgb 'green' title 'Australia', \
+'Belgium' using 6:2 pt 7 ps 1.5 lc rgb '#ee82ee' title 'Belgium', \
+'Canada' using 6:2 pt 5 ps 1.5 lc rgb '#c71585' title 'Canada', \
+'China' using 6:2 pt 7 ps 1.5 lc rgb '#b03060' title 'China', \
+'Denmark' using 6:2 pt 3 ps 2 lc rgb '#db7093' title 'Denmark', \
+'France' using 6:2 pt 3 ps 2 lc rgb 'red' title 'France', \
+'Finland' using 6:2 pt 5 ps 1.5 lc rgb '#00bfff' title 'Finland', \
+'Hong Kong' using 6:2 pt 7 ps 1.5 lc rgb '#6a5acd' title 'Hong Kong', \
+'Germany' using 6:2 pt 7 ps 1.5 lc rgb '#000080' title 'Germany', \
+'Japan' using 6:2 pt 7 ps 1.5 lc rgb 'yellow' title 'Japan', \
+'Netherlands' using 6:2 pt 7 ps 1.5 lc rgb '#40e0d0' title 'Netherlands', \
+'Singapore' using 6:2 pt 3 ps 2 lc rgb '#660033' title 'Singapore', \
+'South Korea' using 6:2 pt 7 ps 1.5 lc rgb '#6b8e23' title 'South Korea', \
+'United States of America' using 6:2 pt 7 ps 1.5 lc rgb 'red' title 'United States of America', \
+'United Kingdom' using 6:2 pt 9 ps 1.5 lc rgb 'blue' title 'United Kingdom', \
+'Switzerland' using 6:2 pt 7 ps 1.5 lc rgb '#5f9ea0' title 'Switzerland', \
+'Sweden' using 6:2 pt 5 ps 1.5 lc rgb '#000000' title 'Sweden', \
+'ab.txt' w l lc rgb 'red'
+set xlabel 'Overall'
+set ylabel 'International Outlook'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
